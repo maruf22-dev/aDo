@@ -3,7 +3,7 @@
 - Started as a freshman year University Project (proof of concept)
 - I have plans To expand on the concept with a different language/Framewrok
 
-* Download/View @ [aDo Website](https://maruf22-dev.github.io/GameOfLife/)
+* Download/View @ [aDo Website](https://null)
 * Technologies:
   - Java
   - JavaFx
